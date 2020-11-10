@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.avus.coin_master_news",
+    "sha256_cert_fingerprints":
+    ["38:70:CB:CA:0A:32:44:03:D7:41:0B:C2:E0:11:B4:40:30:B8:7D:6D:A1:CE:33:8A:B4:23:E2:29:E1:6A:02:86"]
+  }
+}]
