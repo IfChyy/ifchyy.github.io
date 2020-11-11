@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.avus.coin_master_news",
+    "package_name": "com.smule.singandroid.integration",
     "sha256_cert_fingerprints":
-    ["38:70:CB:CA:0A:32:44:03:D7:41:0B:C2:E0:11:B4:40:30:B8:7D:6D:A1:CE:33:8A:B4:23:E2:29:E1:6A:02:86"]
+    ["C4:28:8E:43:E8:5F:E9:1A:68:AF:4E:6C:0C:93:2C:E5:0E:C0:B8:30:FE:91:D5:F2:3D:8E:D1:41:9A:4E:50:7F"]
   }
 }]
