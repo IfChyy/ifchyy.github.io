@@ -1,9 +1,1 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.smule.singandroid.integration",
-    "sha256_cert_fingerprints":
-    ["C4:28:8E:43:E8:5F:E9:1A:68:AF:4E:6C:0C:93:2C:E5:0E:C0:B8:30:FE:91:D5:F2:3D:8E:D1:41:9A:4E:50:7F"]
-  }
-}]
+
